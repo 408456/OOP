@@ -19,7 +19,7 @@ namespace LW3
         {
             static void Main(string[] args)
             {
-                Customer customer = new Customer("John Doe", "123 Main St", "555-1234");
+                Customer customer = new Customer("John Doe", "124 Main St", "555-1234");
 
                 List<Dish> dishes = new List<Dish>
             {
